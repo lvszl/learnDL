@@ -1,0 +1,3 @@
+[参考](https://zhuanlan.zhihu.com/p/345680792)
+这个是我刚看完李沐的attention is all u need 后在网上找的Transformer简单版实现，没有选择d2l，因为d2l写的比较复杂。
+
